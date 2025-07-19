@@ -1,2 +1,3 @@
-# kp_mu
-KhaiPhong Web technologies based on mu
+# KpMu
+
+KhaiPhong Web technologies based on <a href="https://github.com/khaiphong/kp_mu/tree/main/mu" target="_blank">mu</a>, <a href="https://github.com/khaiphong/kp_mu/tree/main/chat" target="_blank">chat</a>, <a href="https://github.com/khaiphong/kp_mu/tree/main/coloc" target="_blank">coloc</a>, <a href="https://github.com/khaiphong/kp_mu/tree/main/home" target="_blank">home</a>, <a href="https://github.com/khaiphong/kp_mu/tree/main/vault" target="_blank">vault</a>, <a href="https://github.com/khaiphong/kp_mu/tree/main/graph" target="_blank">graph</a>, <a href="https://github.com/khaiphong/kp_mu/tree/main/video" target="_blank">video</a>, <a href="https://github.com/khaiphong/kp_mu/tree/main/lib" target="_blank">lib</a> crates. 
