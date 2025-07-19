@@ -1,4 +1,4 @@
 [workspace]
 resolver = "3"
-members = [ "lib","mu"]
+members = [ "chat", "coloc", "graph", "home", "lib","mu", "vault", "video"]
 
