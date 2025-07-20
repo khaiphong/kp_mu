@@ -1,0 +1,4 @@
+# coloc
+
+(CoLocation) is one of the persona (at least) three <b>always-on containerized data</b> in <a href="https://github.com/khaiphong/KpPlatform" target="_blank">distributed computing KpPlatform</a> to serve as a centralized data storage of your <a href="https://github.com/khaiphong/hub" target="_blank">home and traveling HOC hubs</a>, being distributedly connected and synchronized with two others dedicated containers <a href="https://github.com/khaiphong/home" target="_blank">home</a> and <a href="https://github.com/khaiphong/vault" target="_blank">vault</a>. It is a replicated gateway to pull your online data to off-line backup. It is also an excellent mean to serve your heavy works from distant "<b>HOC / Home-Office Clubs</b>", ready wherever you are and being a centre of conscious Activities, Relationships, and Places in both normative and positive Intelligence toward What Count.
+
